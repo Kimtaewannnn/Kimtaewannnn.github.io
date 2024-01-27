@@ -1,9 +1,8 @@
-title: Taewan
+title: Taewan's blog
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
+  Taewan's blog.
 url: "https://Kimtaewannnn.github.io"
-baseurl: "https://Kimtaewannnn.github.io"
+baseurl: ""
 github: Kimtaewannnn
 email: Kimtaewannnn@gmail.com
 google_analytics: "UA_TOKEN"

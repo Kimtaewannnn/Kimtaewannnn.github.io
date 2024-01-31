@@ -1,9 +1,11 @@
 - title: 웹소켓을 이용한 채팅방 구현
   description: 기술세미나
+  image: web.png
   youtube: https://www.youtube.com/watch?v=E08cy4y82xY
 
 - title: 투자자를 위한 자산분배 포트폴리오 AI추천 서비스
   description: AI 기반 자산분배 포트폴리오 추천 서비스
+  image: AI.png
   youtube: https://www.youtube.com/watch?v=BIokWE9jf7Y
 
 - title: 역량 인증서
@@ -27,4 +29,3 @@
 - title: 역량 인증서
   description: 직무 수행 역량
   image: 1.png
-d

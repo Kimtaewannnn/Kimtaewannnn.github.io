@@ -1,6 +1,6 @@
 ---
 title: 웹소켓을 이용한 채팅방 구현
-description: 2인 프로젝트
+description: 기술세미나 
 image: web.png
 date: 2023-07-05
 youtube: E08cy4y82xY

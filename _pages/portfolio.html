@@ -15,7 +15,7 @@ visible: true
           {% else %}
             <a href="#{{ identifier }}">
           {% endif %}
-            <div class="hyde thumbnail" style="background-image: url('/assets/images/portfolio/{{ item.image }}');"></div>
+            <div class="hyde thumbnail" style="background-image: url('https://kimtaewannnn.github.io/assets/images/portfolio/{{ item.image }}');"></div>
             <div class="hyde portfolio-overlay">
               <h3>{{ item.title }}</h3>
               <span>{{ item.description }}</span>
@@ -26,16 +26,16 @@ visible: true
       <div id="{{ identifier }}" class="hyde lightbox" {% unless item.youtube %} onclick="history.back()" {% endunless %}>
         {% if item.youtube %}
           <!-- Embed YouTube video thumbnail or player here -->
-          <img src="/assets/images/portfolio/{{ item.image }}" alt="{{ item.title }}" onclick="event.stopPropagation()" />
+          <img src="https://kimtaewannnn.github.io/assets/images/portfolio/{{ item.image }}" alt="{{ item.title }}" onclick="event.stopPropagation()" />
         {% else %}
-          <img src="/assets/images/portfolio/{{ item.image }}" alt="{{ item.image | split: '.' | first }}" onclick="event.stopPropagation()" />
+          <img src="https://kimtaewannnn.github.io/assets/images/portfolio/{{ item.image }}" alt="{{ item.image | split: '.' | first }}" onclick="event.stopPropagation()" />
         {% endif %}
       </div>
     {% endfor %}
   </div>
 {% else %}
   <div class="hyde empty">
-    <img src="/assets/images/waldo.png" alt="not_found" />
+    <img src="https://kimtaewannnn.github.io/assets/images/waldo.png" alt="not_found" />
     <p>게시물이 없습니다.</p>
   </div>
 {% endif %}

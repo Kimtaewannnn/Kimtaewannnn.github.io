@@ -1,7 +1,7 @@
 ---
 title: OCR
 description: 4인 프로젝트
-image: "https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/5fa3b47e-5f8e-4973-894a-1849f7e6e5e6"
+image: ocr.png
 date: 2023-06-05
 ---
 

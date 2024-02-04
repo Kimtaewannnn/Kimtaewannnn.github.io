@@ -28,9 +28,11 @@ OCR 기술을 적용하여 전자문서 및 전자증명서의 내용을 신속�
 RPA 적용:
 로봇 프로세스 자동화(RPA)를 통해 OCR은 반복적이고 귀찮은 업무를 자동화하는 데 활용됩니다. 금융 분야에서는 예를 들어 계좌 정보 추출, 거래 내역 분석 등 다양한 업무에 적용되어 운영 효율성을 높이고 인간 리소스를 효과적으로 활용합니다.
 # 금융 분야의 활용 사례
-![OCR](./assets/images/projects/ocr1.png)
-![OCR](assets/images/projects/ocr2.png)
-![OCR](./images/projects/ocr3.png)
-![OCR](/images/projects/ocr4.png)
-![OCR](images/projects/ocr5.png)
-![OCR](../assets/images/projects/ocr6.png)
+
+![OCR1](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/a9f1c17d-c693-4296-92db-d3b72f1712e1)
+![ocr2](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/c9fec00e-c8bc-46f0-81f7-773d037ccceb)
+![ocr3](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/6b28aa2a-bab3-468f-aea1-ef73963f9852)
+![ocr4](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/14c5580f-30c1-4a94-bd4d-c2b218b4cdff)
+![ocr5](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/23c92a47-6be8-46ef-b084-b0da7fa4d966)
+![ocr6](https://github.com/Kimtaewannnn/Kimtaewannnn.github.io/assets/133857370/7171dc38-855a-45bf-bd40-25caeb572d56)
+

@@ -28,9 +28,9 @@ OCR 기술을 적용하여 전자문서 및 전자증명서의 내용을 신속�
 RPA 적용:
 로봇 프로세스 자동화(RPA)를 통해 OCR은 반복적이고 귀찮은 업무를 자동화하는 데 활용됩니다. 금융 분야에서는 예를 들어 계좌 정보 추출, 거래 내역 분석 등 다양한 업무에 적용되어 운영 효율성을 높이고 인간 리소스를 효과적으로 활용합니다.
 # 금융 분야의 활용 사례
-![OCR](/assets/images/projects/ocr1.png)
-![OCR](/assets/images/projects/ocr2.png)
-![OCR](/assets/images/projects/ocr3.png)
-![OCR](/assets/images/projects/ocr4.png)
-![OCR](/assets/images/projects/ocr5.png)
-![OCR](/assets/images/projects/ocr6.png)
+![OCR](./assets/images/projects/ocr1.png)
+![OCR](assets/images/projects/ocr2.png)
+![OCR](./images/projects/ocr3.png)
+![OCR](/images/projects/ocr4.png)
+![OCR](images/projects/ocr5.png)
+![OCR](../assets/images/projects/ocr6.png)

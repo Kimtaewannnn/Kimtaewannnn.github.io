@@ -1,7 +1,7 @@
 ---
 title: 투자자를 위한 자산분배 포트폴리오 AI추천 서비스
 description: AI 기반 자산분배 포트폴리오 추천 서비스
-image: AI.png
+image: AI.PNG
 date: 2023-09-24
 youtube: BIokWE9jf7Y
 ---

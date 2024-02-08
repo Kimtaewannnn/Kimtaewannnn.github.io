@@ -1,7 +1,7 @@
 ---
 title: 웹소켓을 이용한 채팅방 구현
 description: 기술세미나 
-image: https://kimtaewannnn.github.io/kimtaewannnn.github.io/assets/images/project/web.png
+image: web.PNG
 date: 2023-07-05
 youtube: E08cy4y82xY
 ---

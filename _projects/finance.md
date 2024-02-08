@@ -1,7 +1,7 @@
 ---
 title: 금융데이터 분석
 description: 개인 프로젝트
-image: 금융.png
+image: 금융.PNG
 date: 2023-07-20
 ---
 

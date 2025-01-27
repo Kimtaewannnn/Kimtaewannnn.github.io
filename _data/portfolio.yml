@@ -1,3 +1,35 @@
+<<<<<<< HEAD
 # - title: 포트폴리오 데모
 #   description: 포트폴리오 데모 아이템입니다.
 #   image: demo.png
+=======
+- title: 웹소켓을 이용한 채팅방 구현
+  description: 기술세미나
+  image: web0.PNG
+  youtube: "https://www.youtube.com/watch?v=E08cy4y82xY"
+
+- title: 투자자를 위한 자산분배 포트폴리오 AI추천 서비스
+  description: AI 기반 자산분배 포트폴리오 추천 서비스
+  image: AI.PNG
+  youtube: "https://www.youtube.com/watch?v=BIokWE9jf7Y"
+
+- title: 역량 인증서
+  description: 직무역량 기술서(인공지능 서비스 운영관리, 인공지능 서비스 구현) 
+  image: 5.PNG
+
+- title: 역량 인증서
+  description: 직무역량 기술서(인공지능 모델링) 
+  image: 4.PNG
+
+- title: 역량 인증서
+  description: 직무역량 기술서(인공지능 서비스 기획, 인공지능 모델링) 
+  image: 3.PNG
+
+- title: 역량 인증서
+  description: 직무역량 체계도, 직무역량 기술서(빅데이터 분석) 
+  image: 2.PNG
+
+- title: 역량 인증서
+  description: 직무 수행 역량
+  image: 1.PNG
+>>>>>>> 72b4a595e8f8bbf245e56771a0b0ed54b4b8c065

@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # - title: 포트폴리오 데모
 #   description: 포트폴리오 데모 아이템입니다.
 #   image: demo.png
-=======
 - title: 웹소켓을 이용한 채팅방 구현
   description: 기술세미나
   image: web0.PNG
@@ -32,4 +31,3 @@
 - title: 역량 인증서
   description: 직무 수행 역량
   image: 1.PNG
->>>>>>> 72b4a595e8f8bbf245e56771a0b0ed54b4b8c065
